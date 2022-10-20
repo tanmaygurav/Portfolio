@@ -2,32 +2,32 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Android Application",
+      "title": "SPECIES AR",
+      "description": "Augmented Reality Module of SPECIES 'Scientific Platform for Effective Collection of Information and Exploration System'. This app allows user to get information of various species of animals and view 3D models of those animals in Augmented Reality",
+      "tags": ["ARCore", "SceneForm","AppScript"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/specieslogo.png",
+        "alt": "SPECIES",
+        "linkTo": "https://github.com/tanmaygurav/Species"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/tanmaygurav/Species"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://docs.google.com/document/d/1Wkyu_VahKdjVKv1hFl3deLZ93fVRb4nQfcoaeYImaow/edit?usp=sharing"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Web Application",
+      "title": "Zomato Clone",
+      "description": "Cloned Zomato's website with MERN stack",
+      "tags": [ "MERN Stack","Clone"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
         "alt": "Extendable Layout"
@@ -35,13 +35,13 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/tanmaygurav/zomato-clone-reup"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

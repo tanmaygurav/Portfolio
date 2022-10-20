@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hey",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/profile.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Tanmay Gurav",
   "subtitle": {
-    "prefix": "I do all the setup ",
+    "prefix": "I develop software in Android, Web and Desktop ",
     "highlight": "for you",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I have a knack for learning and experimenting new things.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
