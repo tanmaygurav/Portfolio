@@ -24,6 +24,28 @@
     },
     {
       "visible": true,
+      "category": "Website",
+      "title": "Personal Blog with 2 Factor Authentication",
+      "description": "Personal Blog Website with Ejs as front-end and MongoDB as Backend running locally on Node Express application framework. Added 2 Factor Authentication for Login.",
+      "tags": ["MongoDB", "Google Auth","EJS"],
+      "image": {
+        "src": "../../images/blogthumb.png",
+        "alt": "Blog",
+        "linkTo": "https://github.com/tanmaygurav/Personal-Blog-with-MongoDB"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/tanmaygurav/Personal-Blog-with-MongoDB"
+        },
+        {
+          "type": "external",
+          "url": "https://docs.google.com/document/d/1XD9XBbTr-6dcPJznGGt5WzL6FSg2D6rZeiC28GJMG4Y/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Web Application",
       "title": "Zomato Clone",
       "description": "Cloned Zomato's website with MERN stack",
@@ -38,11 +60,33 @@
           "url": "https://github.com/tanmaygurav/zomato-clone-reup"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "NLP",
+      "title": "Text Summarizer",
+      "description": "Summarization of text using Luhns Heuristic Method for text summarization. Implementation of Extractive Text Summarization and Abstractive Text Summarization.",
+      "tags": ["Python", "NLP","NLTK"],
+      "image": {
+        "src": "../../images/summarization.png",
+        "alt": "Summarization",
+        "linkTo": "https://docs.google.com/document/d/1qpqyJm_K56DC9OlQS479WyhneGj5sABtVfDQz_ZkBio/edit?usp=sharing"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://colab.research.google.com/drive/1BU8sKzVyPtFxJVlYnFAxSr0oovmYe7N-?usp=sharing"
+        },
+        {
+          "type": "external",
+          "url": "https://docs.google.com/document/d/1qpqyJm_K56DC9OlQS479WyhneGj5sABtVfDQz_ZkBio/edit?usp=sharing"
+        }
+      ]
     }
   ],
   "button": {
-    "visible": false,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "visible": true,
+    "label": "Visit me on Github",
+    "url": "https://github.com/tanmaygurav"
   }
 }
